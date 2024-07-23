@@ -1,0 +1,46 @@
+/* 
+.accordion {
+    border: 2px solid black;
+}
+
+.accordion-header {
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+
+.accordin-content {
+    border: 1px solid black;
+    background-color: blueviolet;
+} */
+
+
+
+
+.box {
+    width: 60%;
+    padding: 2%;
+    margin-left: 18%;
+    margin-top: 20vh;
+    background-color: aliceblue;
+    border: 1px solid gainsboro;
+}
+
+
+.header {
+    padding: 10px;
+    border: 1px solid #ebebeb;
+    background-color: mediumaquamarine;
+}
+
+
+.content {
+    display: none;
+    background-color: azure;
+    border: 1px solid lavender;
+    padding: 10px;
+}
+
+
+i {
+    margin-left: 29.5em;
+}
